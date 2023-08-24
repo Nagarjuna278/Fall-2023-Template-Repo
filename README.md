@@ -1,4 +1,4 @@
-# CSC648-spring23-SectionName-teamNN Repository
+# CSC648-fa23-SectionName-teamNN Repository
 
 **Application URL: <https://example.com>**
 
@@ -11,7 +11,7 @@
      make sure to also **remove the username from the repository as well**!
      Teams with an incorrectly named repository will have points deducted from
      their milestone 0 grades.
-   - Examples: `csc648-spring23-04-Team01`, `csc648-spring23-01-Team05`
+   - Examples: `csc648-fa23-04-Team01`, `csc648-fa23-01-Team05`
 2. Add ALL members of your team to this repository. For it to count, **they must
    ACCEPT the invite**.
 3. Fill out the table below
